@@ -7,4 +7,4 @@ To create nodes:
 Start: hold 's' + left click
 End: hold 'e' + left click
 
-![alt text](https://drive.google.com/file/d/1MY-qrZURfDsQyLoEP2vdEk7sTIBAnsXR/view?usp=sharing)
+![alt text](Sceenshot/Screenshot (1652).png)
