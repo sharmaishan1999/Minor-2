@@ -7,4 +7,6 @@ To create nodes:
 Start: hold 's' + left click
 End: hold 'e' + left click
 
-![alt text](Sceenshot/Screenshot (1652).png)
+Wall: left click
+To delete nodes:
+same as creation, except right click!
