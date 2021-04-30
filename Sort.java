@@ -2,16 +2,13 @@
 
 package minor;
 
-/**
- *
- * @author DELL
- */
+
 import java.util.ArrayList;
 
 /* Sort functions used in path finding to
  * determine lowest F cost Node. Bubble sort is mainly
  * used, quick sort needs work. Currently not working
- * by Devon Crawford
+
  */
 public class Sort {
 
